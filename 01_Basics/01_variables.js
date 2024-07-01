@@ -7,3 +7,5 @@ var d = 99;
 // console.log(a);
 
 console.table([a, b, c, d]);
+
+//? sdfdfs
